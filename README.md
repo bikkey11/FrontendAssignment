@@ -1,12 +1,29 @@
-# React + Vite
+# Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project implements several tasks using **React**.
 
-Currently, two official plugins are available:
+## Completed Tasks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Task 1:** [Task 1 Demo](https://frontend-assignment-henna-pi.vercel.app/task1)
+- **Task 2:** [Task 2 Demo](https://frontend-assignment-henna-pi.vercel.app/task2)
+- **Task 4:** [Task 3 Demo](https://frontend-assignment-henna-pi.vercel.app/task4)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo
+
+Check out the live demo of the project here:  
+[Demo Link](https://frontend-assignment-henna-pi.vercel.app/)
+
+---
+
+Feel free to explore the code and run the project locally. If you have any questions or feedback, please open an issue or contact me.
+
+## Getting Started
+
+Clone this repository:
+
+```bash
+git clone
+cd to this folder
+npm install
+npm run dev
