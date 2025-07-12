@@ -4,9 +4,9 @@ This project implements several tasks using **React**.
 
 ## Completed Tasks
 
-- **Task 1:** [Task 1 Demo](https://frontend-assignment-henna-pi.vercel.app/task1)
-- **Task 2:** [Task 2 Demo](https://frontend-assignment-henna-pi.vercel.app/task2)
-- **Task 4:** [Task 3 Demo](https://frontend-assignment-henna-pi.vercel.app/task4)
+- **Task 1:** 
+- **Task 2:** 
+- **Task 4:**
 
 
 ## Live Demo
